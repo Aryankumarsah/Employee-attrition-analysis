@@ -86,7 +86,7 @@ Recommendations: Balance overtime, review compensation, focus on retention progr
 
 Clone the repository:
 
-git clone https://github.com/yourusername/employee-attrition-analysis.git
+git clone https://github.com/Aryankumarsah/Employee-attrition-analysis
 
 
 Install dependencies:
